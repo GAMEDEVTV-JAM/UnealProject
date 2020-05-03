@@ -1,2 +1,2 @@
 # UnealProject
-This is the shared Unreal project
+This is the repository for the shared Unreal project
